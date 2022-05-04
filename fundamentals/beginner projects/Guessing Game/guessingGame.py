@@ -8,3 +8,7 @@ randnum = random.randint(1, 101)
 
 if guess < randnum:
 	print("higher")
+elif guess > randnum:
+	print("lower")
+else:
+	print("you guessed it!")
