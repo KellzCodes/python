@@ -14,7 +14,7 @@ def main():
 	winsPlayer2 = 0
 	rounds = 1
 
-	while rounds != 3:
+	while rounds != 4:
 		print(f"Round {rounds}")
 		p1 = roll_dice()
 		p2 = roll_dice()
@@ -32,6 +32,12 @@ def main():
 
 		rounds = rounds + 1
 
+	if winsPlayer1 > winsPlayer2:
+		print(f"{playerOne} Wins - Rounds Won: {winsPlayer1}")
+	elif winsPlayer2 > winsPlayer1:
+		print(f"{playerTwo} Wins! - Rounds Won: {winsPlayer2}")
+	else:
+		print("Draw!")
 
 def roll_dice():
 	dice = random.randint(1, 6)
