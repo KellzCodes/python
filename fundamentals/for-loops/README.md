@@ -50,6 +50,7 @@ skip certain element in a list
 
 
 ![image](https://user-images.githubusercontent.com/19383145/167050932-119cecad-ec90-411b-a369-4f43635a9724.png)
+
 i multiplied by j is the number of digits printed. 
 
 ![image](https://user-images.githubusercontent.com/19383145/167051538-2e81ec42-366d-4173-afac-427953a0c195.png)
