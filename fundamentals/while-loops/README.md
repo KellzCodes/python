@@ -23,3 +23,7 @@ The `else` condition only happens if the `while` loop breaks.
 The `while` loop will break only if its condition is false.
 
 ![image](https://user-images.githubusercontent.com/19383145/167225496-9ae2b69e-95b2-448a-abb8-7a9b0482a547.png)
+
+#### take user input until a condition is met
+
+![image](https://user-images.githubusercontent.com/19383145/167226665-0ed0f8da-4742-4abd-b50d-bf4458306b78.png)
