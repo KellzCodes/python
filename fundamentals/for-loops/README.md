@@ -1,5 +1,7 @@
 # For Loops
 
+- [Practice Questions](#Practice-Questions)
+
 ![image](https://user-images.githubusercontent.com/19383145/167043639-5fcb6933-767c-4805-8612-b79a7d5d1467.png)
 
 ![image](https://user-images.githubusercontent.com/19383145/167043722-f6cb1587-2c52-4e93-b77f-899779c0d6ff.png)
@@ -80,9 +82,40 @@ write a for loop that looks in a tuple to see if a word exists. Else statement o
 
 ![image](https://user-images.githubusercontent.com/19383145/167054252-bbb45912-6c51-4dca-86ab-09e6efb8efc7.png)
 
+## Practice Questions
 
+#### question 1
 
+![image](https://user-images.githubusercontent.com/19383145/167057509-38a47465-2a25-4a6c-9ccb-e534210b95bc.png)
 
+[question 1 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/for-loops/practice1.py)
 
+#### question 2
 
+![image](https://user-images.githubusercontent.com/19383145/167058299-2dc2e18e-1d51-4c0a-ba86-3276c682d9f9.png)
 
+[question 2 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/for-loops/practice2.py)
+
+#### question 3
+
+![image](https://user-images.githubusercontent.com/19383145/167058487-961355ff-bd4c-4aa3-b3f2-76149f2445ee.png)
+
+[question 3 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/for-loops/practice3.py)
+
+#### question 4
+
+![image](https://user-images.githubusercontent.com/19383145/167058660-91fdd03f-4f96-4317-b406-a723e1b11886.png)
+
+[question 4 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/for-loops/practice4.py)
+
+#### question 5
+
+![image](https://user-images.githubusercontent.com/19383145/167058749-4fcd6bdc-fea4-4f98-81be-d10ef60fdb37.png)
+
+[question 5 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/for-loops/practice5.py)
+
+#### question 6
+
+![image](https://user-images.githubusercontent.com/19383145/167058992-795530b1-3d90-4d4c-b39c-d4e1b8bb8e6b.png)
+
+[question 6 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/for-loops/practice6.py)
