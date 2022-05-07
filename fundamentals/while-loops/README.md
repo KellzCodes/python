@@ -1,5 +1,7 @@
 # `while` Loops
 
+[Practice Questions](#Practice-Questions)
+
 Use a `while` loop instead of a `for` loop if you don't know how many loops you will need
 
 ![image](https://user-images.githubusercontent.com/19383145/167224618-4a234952-f329-484d-a4b3-a1fee6edcb4c.png)
@@ -27,3 +29,23 @@ The `while` loop will break only if its condition is false.
 #### take user input until a condition is met
 
 ![image](https://user-images.githubusercontent.com/19383145/167226665-0ed0f8da-4742-4abd-b50d-bf4458306b78.png)
+
+## Practice Questions
+
+#### Question 1
+
+![image](https://user-images.githubusercontent.com/19383145/167227701-84e37ebe-1ccd-4c3d-a8cb-ade4c3cde0b3.png)
+
+[Question 1 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/while-loops/practice1.py)
+
+#### Question 2
+
+![image](https://user-images.githubusercontent.com/19383145/167228025-a4584386-123a-42cc-95d1-ad591c42bfde.png)
+
+[Question 2 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/while-loops/practice2.py)
+
+#### Question 3
+
+![image](https://user-images.githubusercontent.com/19383145/167229140-35ed9fbd-18c6-464f-be62-6c70abbfb085.png)
+
+[Question 3 answer]()
