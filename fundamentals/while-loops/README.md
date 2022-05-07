@@ -48,4 +48,4 @@ The `while` loop will break only if its condition is false.
 
 ![image](https://user-images.githubusercontent.com/19383145/167229140-35ed9fbd-18c6-464f-be62-6c70abbfb085.png)
 
-[Question 3 answer]()
+[Question 3 answer](https://github.com/KellzCodes/python/blob/main/fundamentals/while-loops/practice3.py)
