@@ -38,3 +38,14 @@ By default, the right will be the start (beginning of list) and the left will be
 
 ![image](https://user-images.githubusercontent.com/19383145/167237694-e1dafacb-3a45-4548-8e31-c386996cf434.png)
 
+#### slice a reversed list
+
+![image](https://user-images.githubusercontent.com/19383145/167266024-71e970cb-7ce8-420a-aa04-6d20097ebf5b.png)
+
+#### slice every other character in a string
+
+![image](https://user-images.githubusercontent.com/19383145/167266103-f35a76d4-c950-4c18-b23e-b01532832eef.png)
+
+#### slice a reversed tuple
+
+![image](https://user-images.githubusercontent.com/19383145/167266269-5adf2c70-a347-4651-9a6f-c57abc5f81d5.png)
