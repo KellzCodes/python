@@ -24,14 +24,6 @@ This only checks for a key, not a value
 
 ![image](https://user-images.githubusercontent.com/19383145/167278148-d6be5d4e-1ecd-475f-931c-5b30418da9d0.png)
 
-#### check the values of a dictionary
-
-![image](https://user-images.githubusercontent.com/19383145/167278176-7889e71e-d258-4aa9-b468-abcef6a7a493.png)
-
-#### access a value of a dictionary
-
-![image](https://user-images.githubusercontent.com/19383145/167278224-b087270d-3237-466c-b7ee-efe564a0f66d.png)
-
 #### `values()` method
 
 ![image](https://user-images.githubusercontent.com/19383145/167321354-706fbda6-3d89-4f71-976f-b9b2f2e83d4c.png)
