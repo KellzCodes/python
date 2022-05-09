@@ -33,3 +33,29 @@ This only checks for a key, not a value
 #### access a value of a dictionary
 
 ![image](https://user-images.githubusercontent.com/19383145/167278224-b087270d-3237-466c-b7ee-efe564a0f66d.png)
+
+#### `values()` method
+
+![image](https://user-images.githubusercontent.com/19383145/167321354-706fbda6-3d89-4f71-976f-b9b2f2e83d4c.png)
+
+Here is how to access a value using the `values()` method
+
+![image](https://user-images.githubusercontent.com/19383145/167321416-49f7b466-1b0e-4014-96d2-bde7ad4a4598.png)
+
+#### `keys()` method
+
+![image](https://user-images.githubusercontent.com/19383145/167321443-ef47003d-452f-4b59-9805-9ac3f8e104ba.png)
+
+Here is how to access a key using the `keys()` method
+
+![image](https://user-images.githubusercontent.com/19383145/167321472-4c3f81d1-0624-4c6a-8192-e033d0dab132.png)
+
+#### `items()` method
+
+This will print a list of tuples. Each tuple is a key-value pair.
+
+![image](https://user-images.githubusercontent.com/19383145/167321529-7ff5fa7d-16f9-4e83-876d-4c66d340a069.png)
+
+Here is how to access an item using the `items()` method
+
+![image](https://user-images.githubusercontent.com/19383145/167321564-725ff120-a040-4528-979d-0f426ee8146c.png)
