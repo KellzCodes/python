@@ -12,7 +12,6 @@ Dictionaries allow us to store key value pairs.
 #### adding elements to the dictionary
 
 ![image](https://user-images.githubusercontent.com/19383145/167277993-d9bd2eea-83a5-4786-b4e6-6bb4f0a65a14.png)
-
 ![image](https://user-images.githubusercontent.com/19383145/167278027-49789184-7a90-4e25-868b-e6dc8e4bc480.png)
 
 #### deleting an element from the dictionary
