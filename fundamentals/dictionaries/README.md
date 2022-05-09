@@ -49,3 +49,61 @@ This will print a list of tuples. Each tuple is a key-value pair.
 Here is how to access an item using the `items()` method
 
 ![image](https://user-images.githubusercontent.com/19383145/167321564-725ff120-a040-4528-979d-0f426ee8146c.png)
+
+#### `len()` method - get the length of a dictionary
+
+Each key-value pair is one item
+
+![image](https://user-images.githubusercontent.com/19383145/167331657-3b30a9fa-8947-42b7-96a0-b05c45e99a33.png)
+
+#### Loop through a dictionary
+
+A dictionary is an unordered collection of items. 
+
+The items in a dictionary are not necessarily going to be maintained in the order in which we insert them. 
+
+We can't loop through the indices or the length of the dictionary using the `range()` function.
+
+We need to loop through all of the keys in the dictionary then access the values based on those keys.
+
+![image](https://user-images.githubusercontent.com/19383145/167332663-1e58030d-ef06-4f42-82d5-0e09ef7ec4d1.png)
+![image](https://user-images.githubusercontent.com/19383145/167332719-727a833b-dec4-45bc-9de8-aa314d57902b.png)
+
+`get()` method
+
+`x.get()` will actually give us the value of the key. 
+
+For example, If key 4 does not exist in the dictionary, it will instead return whatever we put as the second argument. 
+
+If key 4 exists, it returns whatever value is associated with 4.
+
+If key 4 doesn't exist in the dictionary, it just gives us 0. 
+
+In the below example, If key 4 doesn't exist, return 0 and then add 1 to it. Otherwise, we will add one to whatever the value associated with key 4 is.
+
+![image](https://user-images.githubusercontent.com/19383145/167333549-61887cd3-b154-41a0-85dd-365c26d14a29.png)
+![image](https://user-images.githubusercontent.com/19383145/167333589-6742d55e-3f70-4606-ad9b-708bd9593161.png)
+
+#### build a dictionary by looping through a string
+
+This will keep track of the frequency of each character of the string
+
+![image](https://user-images.githubusercontent.com/19383145/167334040-02f609e1-bb9b-46ec-a677-f217319b7ef2.png)
+
+#### count how many characters user inputs to console
+
+![image](https://user-images.githubusercontent.com/19383145/167334861-ec9b889b-8986-4b5e-b06f-8996b2e73629.png)
+
+#### When to use a dictionary
+
+A dictionary is an unordered collection of key-value pairs. 
+
+It is useful for storing an unordered collection.
+
+If you need to store the order in which items were inserted, then you need to use something like a list. 
+
+Dictionaries are really good for doing things like frequency counting. 
+
+An operation to check if an element exists in a dictionary can process instantly, whereas in a list, it will take a long time depending on how long the list is.
+
+Whenever you're doing an operation where you want to see if something exists, you should favor using a dictionary over using a list, unless there is a specific reason you need to use a list. 
