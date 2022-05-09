@@ -7,7 +7,6 @@
 Dictionaries allow us to store key value pairs.
 
 ![image](https://user-images.githubusercontent.com/19383145/167268833-a74998c8-0c1f-437d-810b-0e0550f895f2.png)
-
 ![image](https://user-images.githubusercontent.com/19383145/167268853-a7f2cfaf-d795-4d1f-bf01-f4e8962ae2ec.png)
 
 #### adding elements to the dictionary
