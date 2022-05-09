@@ -1,5 +1,7 @@
 # Dictionaries
 
+- [Practice Questions](#Practice-Questions)
+
 ![image](https://user-images.githubusercontent.com/19383145/167268713-018b6e09-1822-4a74-8384-43bd4566920c.png)
 
 ![image](https://user-images.githubusercontent.com/19383145/167268747-f7dffc1e-2971-431d-b40b-e4724b9fd44c.png)
@@ -107,3 +109,13 @@ Dictionaries are really good for doing things like frequency counting.
 An operation to check if an element exists in a dictionary can process instantly, whereas in a list, it will take a long time depending on how long the list is.
 
 Whenever you're doing an operation where you want to see if something exists, you should favor using a dictionary over using a list, unless there is a specific reason you need to use a list. 
+
+## Practice Questions
+
+#### Write a program that asks the user to enter a string and prints the string's characters and their frequencies in any order and in the following format: `key: frequency`
+
+![image](https://user-images.githubusercontent.com/19383145/167336216-7e1267b7-3390-48a9-9fb1-dcfb0bfcbedc.png)
+
+[answer 1](https://github.com/KellzCodes/python/blob/main/fundamentals/dictionaries/practice1.py)
+
+[answer 2](https://github.com/KellzCodes/python/blob/main/fundamentals/dictionaries/practice2.py)
