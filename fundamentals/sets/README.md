@@ -55,3 +55,49 @@ This will tell you how many unique items are in the set
 
 You cannot add any mutable objects to a set. You cannot add a set, list, or dictionary to a set. 
 
+#### `in` operator
+
+Check to see if something exists in a set
+
+![image](https://user-images.githubusercontent.com/19383145/167534817-2ba240fa-acb8-4a7b-8ac3-f04908533b69.png)
+
+#### `union()` method
+
+combines sets together
+
+![image](https://user-images.githubusercontent.com/19383145/167535099-cd3ef751-9e8e-4d97-bf28-489ab5174f48.png)
+
+you can also combine sets using `|`. This only works on sets.
+
+![image](https://user-images.githubusercontent.com/19383145/167535178-81b13a45-902d-4536-862a-08f51e08284b.png)
+
+#### `intersection()` method
+
+The intersection of sets is simply the items contained in both sets
+
+![image](https://user-images.githubusercontent.com/19383145/167535640-e2eba701-522e-45e6-8e6e-b5684726022c.png)
+
+You can also intersect using `&`.
+
+![image](https://user-images.githubusercontent.com/19383145/167535775-e018fe4a-083c-49b2-acb8-57f84e202be7.png)
+
+#### `difference()` method
+
+The difference between 2 sets is all of the elements contained in one set that is not contained in the other
+
+![image](https://user-images.githubusercontent.com/19383145/167536133-7478ea1e-0fb9-4db8-a7ed-293e2beba9fb.png)
+![image](https://user-images.githubusercontent.com/19383145/167536185-3d4b062c-7345-4536-8b3a-3dd1bd6e1620.png)
+
+You can also difference using `-`.
+
+![image](https://user-images.githubusercontent.com/19383145/167536428-8d364387-296e-4d1f-9ec5-2f5da8a81518.png)
+
+#### `symmetric_difference()` method
+
+The symmetric difference is the elements not shared between the two sets
+
+![image](https://user-images.githubusercontent.com/19383145/167536688-e3e893eb-cec0-4a52-9140-f91d4eb0aa32.png)
+
+you can also symmetric difference using `^`.
+
+![image](https://user-images.githubusercontent.com/19383145/167536919-8d50b457-24ee-477e-882a-3dda88cd46fc.png)
