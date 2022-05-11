@@ -1,5 +1,7 @@
 # Sets
 
+[Practice Question](#Practice-Question)
+
 ![image](https://user-images.githubusercontent.com/19383145/167455179-7f3ed7d1-612d-4db2-ba7f-9315acf0ee7d.png)
 
 ![image](https://user-images.githubusercontent.com/19383145/167455483-61b9580f-65eb-4bc9-bbc5-d8dd07d3b38b.png)
@@ -187,5 +189,10 @@ If you don't care about the frequency or order....then use a set.
 
 If you care if something exists and you want to store information with that, then you use a dictionary. 
 
+### Practice Question
 
+#### Write a program that continually asks the user to enter characters until the user enters a previously entered character or more than one character at a time. After, the program should print the number of unique characters that were entered. Use a set to accomplish this
 
+![image](https://user-images.githubusercontent.com/19383145/167749578-dc1361f9-b3e5-4742-aaed-8ba501cdf46f.png)
+
+[Answer](https://github.com/KellzCodes/python/blob/main/fundamentals/sets/practice1.py)
