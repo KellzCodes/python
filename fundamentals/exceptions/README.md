@@ -1,5 +1,7 @@
 # Exceptions
 
+[Practice Question](#Practice-Question)
+
 ![image](https://user-images.githubusercontent.com/19383145/167750277-77aa3c74-f35a-4b61-84c7-c053e56df09d.png)
 
 ![image](https://user-images.githubusercontent.com/19383145/167750412-43ac3f0d-1472-42f5-8a44-6b3e0ad8c66c.png)
