@@ -63,3 +63,13 @@ The point of a `finally` block is to perform cleanup operations no matter what h
 #### Run-time and compile-time errors
 
 ![image](https://user-images.githubusercontent.com/19383145/167762246-93252286-f4bc-4446-a39d-8edfe2117fda.png)
+
+## Practice Question
+
+![image](https://user-images.githubusercontent.com/19383145/167763113-1d742e7f-8c93-4d8d-a5a6-2e71376966ed.png)
+
+![image](https://user-images.githubusercontent.com/19383145/167763147-ec704858-597c-45ab-a36d-db63784f849c.png)
+
+[answer 1](https://github.com/KellzCodes/python/blob/main/fundamentals/exceptions/practice1.py)
+
+[answer 2](https://github.com/KellzCodes/python/blob/main/fundamentals/exceptions/practice2.py)
