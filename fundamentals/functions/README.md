@@ -113,3 +113,6 @@ A nested function cannot be used outside of its parent function
 
 [answer 2](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice10.py)
 
+![image](https://user-images.githubusercontent.com/19383145/167972764-ba671fa6-ed62-4549-8017-53b36f5d6683.png)
+
+[answer](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice11.py)
