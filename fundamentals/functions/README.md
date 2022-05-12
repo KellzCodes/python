@@ -89,3 +89,27 @@ A nested function cannot be used outside of its parent function
 
 [answer 2](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice2.py)
 
+![image](https://user-images.githubusercontent.com/19383145/167967482-345e3c1d-76ab-4952-a800-fd62f561a28d.png)
+
+[answer](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice3.py)
+
+![image](https://user-images.githubusercontent.com/19383145/167969887-a132745e-63a1-4d4a-b372-bf00303e75c5.png)
+
+[answer 1](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice4.py)
+
+[answer 2](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice5.py)
+
+![image](https://user-images.githubusercontent.com/19383145/167970330-31e0bc3b-f8d9-4128-9cce-bd3dff63f11d.png)
+
+[answer 1](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice6.py)
+
+[answer 2](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice7.py)
+
+[answer 3](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice8.py)
+
+![image](https://user-images.githubusercontent.com/19383145/167972306-15f94dfe-5a76-4c92-89f2-75cbbfa8f426.png)
+
+[answer 1](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice9.py)
+
+[answer 2](https://github.com/KellzCodes/python/blob/main/fundamentals/functions/practice10.py)
+
