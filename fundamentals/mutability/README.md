@@ -92,3 +92,9 @@ When you make a copy of a mutable object, it doesn't just copy everything inside
 It will copy the object itself but is not copying all of the potentially mutable objects that are inside of the object. 
 
 This is known as a shallow copy. 
+
+## Practice Question
+
+![image](https://user-images.githubusercontent.com/19383145/168202936-04f47464-73c8-468d-af78-94c1b26f9f22.png)
+
+[answer](https://github.com/KellzCodes/python/blob/main/fundamentals/mutability/practice1.py)
