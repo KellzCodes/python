@@ -1,5 +1,7 @@
 # Mutability
 
+[Practice Question](#Practice-Question)
+
 ![image](https://user-images.githubusercontent.com/19383145/167977498-d913f52e-abb5-465a-977c-8b88335e3900.png)
 
 ![image](https://user-images.githubusercontent.com/19383145/167977699-7f2a1114-346b-43e9-a20d-0623515c09d2.png)
