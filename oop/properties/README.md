@@ -82,3 +82,61 @@ print(p.salary)
 Output:
 
 101
+
+### New Property
+
+`@property` decorator is what you put over your getter. You must name your getter after the attribute you are defining
+
+`@attribute.setter` decorator is what you put over your setter. You must name your setter after the attribute you are defining
+
+```
+class Person:
+  def __init__(self, name):
+    self.name = name
+    self._salary = 0
+
+  @property
+  def salary(self):
+    return round(self._salary)
+
+  @salary.setter
+  def salary(self, salary):
+    if salary < 0:
+      raise ValueError("Hey, this is invalid!")
+    self._salary = salary
+
+p = Person("KD")
+p.salary = -1
+print(p.salary)
+```
+
+output:
+
+![image](https://user-images.githubusercontent.com/19383145/168720760-d49ab75d-7e43-487f-a78c-edf82fc9f2c3.png)
+
+
+## Property Example
+
+```
+class Time:
+  def __init__(self, second):
+    self._second = second
+
+  @property
+  def second(self):
+    return self._second
+
+  @second.setter
+  def second(self, second):
+    if second < 0 or second > 60:
+      raise ValueError("Invalid!")
+    self._second = second
+
+t = Time(54)
+t.second = 61
+print(t.second)
+```
+
+output
+
+![image](https://user-images.githubusercontent.com/19383145/168721478-d96941b6-617f-4037-b494-82190e8cdbe1.png)
