@@ -24,3 +24,9 @@ Output:
 ![image](https://user-images.githubusercontent.com/19383145/169164663-ef8c9b61-8171-413e-9742-e8e01bd14d42.png)
 
 Class attributes are also called static attributes
+
+## instance methods vs static methods
+
+Static methods cannot modify class or instance attributes while instane methods can modify both class ans instance attributes
+
+Static methods are denoted with the `@staticmethod` decorator and take no mandatory parameters. You can think of them as utility functions that are defined inside of a class. They have no access to instance attributes, class attributes, or methods.
