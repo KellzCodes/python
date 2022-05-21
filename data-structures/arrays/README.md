@@ -1,5 +1,9 @@
 # arrays
 
+1. [Memory](#memory)
+2. [Types of Arrays](#types-of-arrays)
+3. [Complexity](#complexity)
+
 Perhaps the most classic and most commonly used of all data structures, the array is deceptively simple. Key word: "deceptively."
 
 Don’t be fooled! Where it might appear trivially straightforward at surface level, it actually boasts an array—pun intended—of nuances worthy of taking a second gander.
@@ -7,10 +11,6 @@ Don’t be fooled! Where it might appear trivially straightforward at surface le
 An array is a linear collection of data values that are accessible at numbered indices, starting at index 0. 
 
 Arrays are called lists in Python.
-
-1. [Memory](#memory)
-2. [Types of Arrays](#types-of-arrays)
-3. [Complexity](#complexity)
 
 ## Memory
 
