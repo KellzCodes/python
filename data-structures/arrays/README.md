@@ -94,7 +94,7 @@ When you're copying an array, you're traversing the entire array and having the 
 
 So you are traversing `O(N)` then allocating another $N$ memory blocks. So that is `O(N)` time and space. 
 
-### Inserting a value in a static array 
+### Inserting a value in an array 
 
 Inserting a value will run in `O(N)` time and `O(1)`space for static arrays. 
 
@@ -104,9 +104,29 @@ The option we have is to copy the array then tell the operating system to find t
 
 Copying is an `O(N)` time operation. Since we freed up all the space from the old array, this will be `O(1)` space.
 
-### Inserting a value in a dynamic array. 
+### Inserting a value at the end of a dynamic array. 
 
-Dynamic arrays will allow you to have faster insertion
+Inserting a value at the end of a dynamic array will run in amortized `O(1)` time and space. 
+
+Dynamic arrays will allow you to have faster insertion.
+
+The dynamic array will allocate twice as much space as you asked for. So you can freely append or insert elements in a dynamic array
+
+Once you exhaust the amount of space you've been allocated, only then does the insertion cause a copy of the array....then you get a new array with double the space you need. 
+
+We keep doubling the array at $1 + 2 + 4 + 8 + N$. This means the doubling of the dynamic array runs at `O(2N)` which is just `O(N)`.
+
+Every time you double the array, you get more and more `O(1)` insertions. This is enough to cancel out the `O(N)` operations.
+
+To insert an element in the middle or the beginning of a dynamic array will take an `O(N)` operation because you will have to shift other elements. 
+
+### Popping values out of the end of an array
+
+Popping is `O(1)` space and time. 
+
+Popping means removing a value at the end of an array. So you just free up the last memory slot. 
+
+### Removing values from the beginning or middle of an array
 
 
 
