@@ -60,6 +60,8 @@ Enter Big O Notation, a powerful tool that allows us to generalize the space-tim
 
 ## Arrays
 
+![image](https://user-images.githubusercontent.com/19383145/169663171-6f9b1186-ec71-495d-aa9a-e246ce4112df.png)
+
 ## Linked Lists
 
 ## Hash Tables
