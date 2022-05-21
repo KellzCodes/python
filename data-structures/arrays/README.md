@@ -6,13 +6,11 @@ Don’t be fooled! Where it might appear trivially straightforward at surface le
 
 An array is a linear collection of data values that are accessible at numbered indices, starting at index 0. 
 
-![image](https://user-images.githubusercontent.com/19383145/169663301-0100ce02-8305-4b64-83d2-ca2a82080a44.png)
-
 Arrays are called lists in Python.
 
 1. [Memory](#memory)
 2. [Types of Arrays](#types-of-arrays)
-3. [Complexity
+3. [Complexity](#complexity)
 
 ## Memory
 
