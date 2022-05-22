@@ -128,5 +128,4 @@ Popping means removing a value at the end of an array. So you just free up the l
 
 ### Removing values from the beginning or middle of an array
 
-
-
+Removing an element from the beginning or middle of an array is an `O(N)` operation because it causes a shift in the other elements.
