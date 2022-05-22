@@ -64,12 +64,40 @@ Enter Big O Notation, a powerful tool that allows us to generalize the space-tim
 
 ## Linked Lists
 
+![image](https://user-images.githubusercontent.com/19383145/169677600-6fc54be2-6150-41d6-b885-44f225a21153.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677631-1fb06d07-ef21-430e-ba32-1ca1e45649a2.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677652-86d26045-1aba-4b6e-bf34-66e61e504ce0.png)
+
 ## Hash Tables
+
+![image](https://user-images.githubusercontent.com/19383145/169677684-9811263c-f434-4d23-8b54-8ef5df002bd0.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677698-472aad6e-e36a-4c9e-8566-5afc2c2184cc.png)
 
 ## Stacks and Queues
 
+![image](https://user-images.githubusercontent.com/19383145/169677751-26f1dc04-43d1-438b-86ea-0a1ed32e9d1b.png)
+
 ## Strings
+
+![image](https://user-images.githubusercontent.com/19383145/169677789-16e61709-a784-4b56-a76e-116fc936eadb.png)
 
 ## Graphs
 
+![image](https://user-images.githubusercontent.com/19383145/169677810-2c4695d2-0626-42e6-82f4-26cd5c374397.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677862-4b1458cc-4cf1-418d-a035-3cea4ce3827b.png)
+
 ## Trees
+
+![image](https://user-images.githubusercontent.com/19383145/169677902-8840905c-13c2-4a86-93f2-962a0f128683.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677929-55f538e3-c6b8-4fe3-b812-07f9903c073f.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677936-8214c770-a80d-49cc-a28c-210044c4526b.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677942-77ed07b9-dd18-4ed3-a304-6839267af1d0.png)
+
+![image](https://user-images.githubusercontent.com/19383145/169677951-32b84e67-4016-4cd5-94a7-dc37606919be.png)
