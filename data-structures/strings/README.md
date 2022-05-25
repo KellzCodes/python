@@ -26,3 +26,4 @@ All of the operations that we are going to perform on a single character in a st
 
 In Python, strings are immutable. You cannot alter them after you've created them. If you want to alter a string, you actually have to create a brand new string. You have to copy the string then create a new string with the new character.
 
+![image](https://user-images.githubusercontent.com/19383145/170168479-de77ca7e-fd7d-4083-8bce-52e995e3e181.png)
