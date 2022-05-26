@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/19383145/170176041-f2a89753-0158-436d-940c-fd11c597cbb7.png)
 
-### Solution Walkthrough
+### Solution 1 Walkthrough
 
 Using two for loops can give a solution but it would cost `O(N²)` time.
 
@@ -33,3 +33,23 @@ Below is an illustration of traversing through the array. We solve for `y` and s
 ![image](https://user-images.githubusercontent.com/19383145/170178602-977a8b9d-6c14-4eb2-acc7-cf32361594a8.png)
 
 We found that the values 11 and -1 sum up to the target sum of 10
+
+[hashSolution.py](https://github.com/KellzCodes/python/blob/main/algorithms/arrays/two-number-sum/hashSolution.py)
+
+### Solution 2 Walkthrough
+
+This solution is the most optimal because it runs in `O(log(n))` time and `O(1)` space
+
+First you sort the array in ascending order. 
+
+Then you set two pointers: left and right. The left pointer will point to the beginning of the array. The right pointer will point to the end of the array. 
+
+We add the value of the left and right pointers. If they are equal to the target sum then we return an array with both values.
+
+If the sum of the pointers are smaller than the target sum, we move the left pointer to the right to a bigger number (remember the array is sorted)
+
+If the sum of the pointers are bigger than the target sum, we move the right pointer to the left to a smaller number.
+
+![image](https://user-images.githubusercontent.com/19383145/170400383-1fb6ea16-6602-44e0-89f0-953e55d92a78.png)
+
+[pointerSolution.py](https://github.com/KellzCodes/python/blob/main/algorithms/arrays/two-number-sum/pointerSolution.py)
