@@ -50,6 +50,8 @@ If the sum of the pointers are smaller than the target sum, we move the left poi
 
 If the sum of the pointers are bigger than the target sum, we move the right pointer to the left to a smaller number.
 
+This solution is `O(nlog(n))` because of the sorting.
+
 ![image](https://user-images.githubusercontent.com/19383145/170400383-1fb6ea16-6602-44e0-89f0-953e55d92a78.png)
 
 [pointerSolution.py](https://github.com/KellzCodes/python/blob/main/algorithms/arrays/two-number-sum/pointerSolution.py)
