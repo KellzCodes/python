@@ -38,7 +38,7 @@ We found that the values 11 and -1 sum up to the target sum of 10
 
 ### Solution 2 Walkthrough
 
-This solution is the most optimal because it runs in `O(log(n))` time and `O(1)` space
+This solution is not the most optimal because it runs in `O(log(n))` time and `O(1)` space
 
 First you sort the array in ascending order. 
 
