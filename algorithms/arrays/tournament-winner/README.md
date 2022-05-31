@@ -30,6 +30,8 @@ The `competitions` array is always going to be the same length of the `results` 
 
 ## Solution Walkthrough
 
+[Solution Code](https://github.com/KellzCodes/python/blob/main/algorithms/arrays/tournament-winner/tournamentWinner.py)
+
 This solution will run in `O(n)` time | `O(k)` space - where n is the number of competitions and k is the number of teams. 
 
 Let's look at how many points each team got in our example
