@@ -42,9 +42,14 @@ class BST:
                 parent = node
                 node = node.right
             else:
+                # if node has 2 children
                 if node.left is not None and node.right is not None:
+                    # current node = smallest value of right subtree
                     node.value = node.right.getMinValue()
+                    # remove the smallest value of right subtree
+                    # pass in current node as parent node
                     node.right.remove(node.value, node)
+                # if node is root node
                 elif parent is None:
                     if node.left is not None:
                         node.value = node.left.value
@@ -56,8 +61,10 @@ class BST:
                         node.right = node.right.right
                     else:
                         pass
+                # if current node is left child
                 elif parent.left == node:
                     parent.left = node.left if node.left is not None else node.right
+                # if current node is right child
                 elif parent.right == node:
                     parent.right = node.left if node.left is not None else node.right
                 break
