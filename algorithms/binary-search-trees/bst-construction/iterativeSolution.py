@@ -5,23 +5,39 @@ class BST:
         self.right = None
 
     def insert(self, value):
+        # keep track of current node
         node = self
+        # keep looping until we break
         while True:
+            # if the insert value is less than the current node
+            # value, explore the left subtree
             if value < node.value:
+                # if at the end of the branch
+                # insert the new node
                 if node.left is None:
                     node.left = BST(value)
                     break
+                # if not at the end of the branch
+                # the current node is now the left child
                 else:
                     node = node.left
+            # if the insert value is greater than the current node
+            # value, explore the right subtree
             else:
+                # if at the end of the branch
+                # insert new node
                 if node.right is None:
                     node.right = BST(value)
                     break
+                # if not at the end of the branch
+                # the current node is now the right child
                 else:
                     node = node.right
+        # return is for testing and not relevant to algorithm
         return self
 
     def contains(self, value):
+        # Keep track of current node
         node = self
         while node is not None:
             if value < node.value:
@@ -32,7 +48,10 @@ class BST:
                 return True
         return False
 
+    # keep track of parent node so we can reassign the 
+    # children of the node we remove
     def remove(self, value, parent=None):
+        # keep track of current node
         node = self
         while node is not None:
             if value < node.value:
@@ -41,6 +60,7 @@ class BST:
             elif value > node.value:
                 parent = node
                 node = node.right
+            # found the target node
             else:
                 # if node has 2 children
                 if node.left is not None and node.right is not None:
@@ -60,6 +80,7 @@ class BST:
                         node.left = node.right.left
                         node.right = node.right.right
                     else:
+                        # this is a single node tree; do nothing
                         pass
                 # if current node is left child
                 elif parent.left == node:
