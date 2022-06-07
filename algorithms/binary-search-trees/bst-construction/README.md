@@ -1,7 +1,8 @@
 # BST Construction
 
 [iterative solution](https://github.com/KellzCodes/python/blob/main/algorithms/binary-search-trees/bst-construction/iterativeSolution.py)
-[recursive solution]()
+
+[recursive solution](https://github.com/KellzCodes/python/blob/main/algorithms/binary-search-trees/bst-construction/recursiveSolution.py)
 
 ![image](https://user-images.githubusercontent.com/19383145/171542575-ad2f60c3-8abf-4e3f-a870-1058f3555b96.png)
 
